@@ -13,7 +13,7 @@
             <mxPoint x="420" y="220.71067811865476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XDWhWSlxkUfwzbaEyGJF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XDWhWSlxkUfwzbaEyGJF-3" value="线扫描相机扫描每一行像素的数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XDWhWSlxkUfwzbaEyGJF-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="XDWhWSlxkUfwzbaEyGJF-3" edge="1">
