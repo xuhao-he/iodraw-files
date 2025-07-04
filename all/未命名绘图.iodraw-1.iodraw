@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-908" y="370" width="36" height="32" as="geometry" />
+          <mxGeometry x="-908" y="370" width="33" height="29" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-7xrcCYNFWyneTFotgO-2" target="J-7xrcCYNFWyneTFotgO-4">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="-554" y="332" width="30" height="105" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="379" width="41" height="28" as="geometry" />
+          <mxGeometry x="-489" y="371" width="40" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
