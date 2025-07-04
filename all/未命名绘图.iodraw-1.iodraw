@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-11" value="判断缓冲区？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-632" y="332" width="47" height="107" as="geometry" />
+          <mxGeometry x="-629" y="331" width="47" height="107" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J-7xrcCYNFWyneTFotgO-11" target="J-7xrcCYNFWyneTFotgO-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,7 +56,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-15" value="进行异常检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-557" y="334" width="30" height="105" as="geometry" />
+          <mxGeometry x="-554" y="332" width="30" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="J-7xrcCYNFWyneTFotgO-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-538" y="342" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
