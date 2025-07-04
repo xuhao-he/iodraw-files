@@ -37,6 +37,11 @@
         <mxCell id="J-7xrcCYNFWyneTFotgO-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-7xrcCYNFWyneTFotgO-11" target="J-7xrcCYNFWyneTFotgO-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J-7xrcCYNFWyneTFotgO-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J-7xrcCYNFWyneTFotgO-16">
+          <mxGeometry x="0.2998" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-11" value="判断缓冲区？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-629" y="331" width="47" height="107" as="geometry" />
         </mxCell>
