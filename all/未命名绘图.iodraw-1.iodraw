@@ -7,7 +7,7 @@
         <mxCell id="J-7xrcCYNFWyneTFotgO-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-924" y="367" width="52" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="J-7xrcCYNFWyneTFotgO-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J-7xrcCYNFWyneTFotgO-2" value="线扫描相机扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-837" y="332.75" width="53" height="103.5" as="geometry" />
         </mxCell>
       </root>
