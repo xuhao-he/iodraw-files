@@ -58,8 +58,8 @@
         <mxCell id="J-7xrcCYNFWyneTFotgO-15" value="进行异常检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-554" y="332" width="30" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="J-7xrcCYNFWyneTFotgO-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-538" y="342" width="120" height="60" as="geometry" />
+        <mxCell id="J-7xrcCYNFWyneTFotgO-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="379" width="41" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
