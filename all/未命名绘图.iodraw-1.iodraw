@@ -45,7 +45,7 @@
             <mxPoint x="-718" y="383" as="sourcePoint" />
             <mxPoint x="-684" y="231" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-611" y="261" />
+              <mxPoint x="-604" y="261" />
               <mxPoint x="-780" y="259" />
             </Array>
           </mxGeometry>
@@ -54,6 +54,9 @@
           <mxGeometry x="-0.1414" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="J-7xrcCYNFWyneTFotgO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-7xrcCYNFWyneTFotgO-15" target="J-7xrcCYNFWyneTFotgO-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-15" value="进行异常检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-554" y="332" width="30" height="105" as="geometry" />
