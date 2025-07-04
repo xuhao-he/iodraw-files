@@ -20,7 +20,7 @@
           <mxGeometry x="-802" y="332.75" width="31" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-6" value="获取新的均值协方差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-743" y="332.75" width="24" height="107.25" as="geometry" />
+          <mxGeometry x="-749" y="332.75" width="30" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
