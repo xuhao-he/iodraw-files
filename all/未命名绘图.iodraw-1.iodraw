@@ -31,6 +31,9 @@
         <mxCell id="J-7xrcCYNFWyneTFotgO-8" value="EMA更新均值协方差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-688" y="332.75" width="30" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="J-7xrcCYNFWyneTFotgO-10" value="EMA更新均值协方差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-634" y="332.75" width="33" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
