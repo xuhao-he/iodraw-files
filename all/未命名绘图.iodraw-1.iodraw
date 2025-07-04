@@ -16,11 +16,14 @@
         <mxCell id="J-7xrcCYNFWyneTFotgO-2" value="线扫描相机扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-845" y="332.75" width="24" height="103.5" as="geometry" />
         </mxCell>
+        <mxCell id="J-7xrcCYNFWyneTFotgO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J-7xrcCYNFWyneTFotgO-4" target="J-7xrcCYNFWyneTFotgO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-4" value="SRP减少波段数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-802" y="332.75" width="31" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="J-7xrcCYNFWyneTFotgO-6" value="获取新的均值协方差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-749" y="332.75" width="30" height="105" as="geometry" />
+          <mxGeometry x="-742" y="332.75" width="30" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
