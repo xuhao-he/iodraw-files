@@ -52,7 +52,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J-7xrcCYNFWyneTFotgO-15" value="EMA更新均值协方差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J-7xrcCYNFWyneTFotgO-15" value="进行异常检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-565" y="337" width="30" height="105" as="geometry" />
         </mxCell>
       </root>
