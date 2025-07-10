@@ -22,6 +22,9 @@
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;控制信号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1qzoK5zXD9fbY2fYwO3g-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qzoK5zXD9fbY2fYwO3g-12" target="1qzoK5zXD9fbY2fYwO3g-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;超声波发射&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -30,6 +33,9 @@
         </mxCell>
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;计算处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qzoK5zXD9fbY2fYwO3g-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qzoK5zXD9fbY2fYwO3g-14" target="1qzoK5zXD9fbY2fYwO3g-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;计时&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="420" width="120" height="60" as="geometry" />
@@ -51,6 +57,9 @@
         </mxCell>
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;传输&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1qzoK5zXD9fbY2fYwO3g-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1qzoK5zXD9fbY2fYwO3g-19" target="1qzoK5zXD9fbY2fYwO3g-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;增益放大&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
