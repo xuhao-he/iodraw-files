@@ -7,6 +7,9 @@
         <mxCell id="1qzoK5zXD9fbY2fYwO3g-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillStyle=solid;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="680" y="230" width="10" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="1qzoK5zXD9fbY2fYwO3g-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
