@@ -52,10 +52,10 @@
         <mxCell id="lvAHB0hziERucEjocImy-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;时钟电路&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-937" y="565" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lvAHB0hziERucEjocImy-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;数码管显示模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="396" width="131" height="60" as="geometry" />
+        <mxCell id="lvAHB0hziERucEjocImy-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LCD液晶显示模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="396" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lvAHB0hziERucEjocImy-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;时钟电路&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lvAHB0hziERucEjocImy-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;按键模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lvAHB0hziERucEjocImy-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;报警模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
