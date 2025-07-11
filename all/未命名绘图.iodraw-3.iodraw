@@ -1,60 +1,60 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="krwDkgEFYom-YzT-eiJ3">
-    <mxGraphModel dx="298" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="As9wCeJyfq6nm48TFVe3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-1" target="As9wCeJyfq6nm48TFVe3-2">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-1" target="As9wCeJyfq6nm48TFVe3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;超声波测距子模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;超声波测距子模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="30" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-2" target="As9wCeJyfq6nm48TFVe3-4">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-2" target="As9wCeJyfq6nm48TFVe3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-2" value="主循环调用测距函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-2" value="主循环调用测距函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-4" target="As9wCeJyfq6nm48TFVe3-13">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-4" target="As9wCeJyfq6nm48TFVe3-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-4" value="触发阶段&lt;span style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; word-spacing: normal; background-color: rgb(255, 255, 255); color: rgb(56, 58, 66); letter-spacing: 0.5px; text-align: left;&quot;&gt;PB1(Trig)=1 ≥10 µs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-4" value="触发阶段&lt;span style=&quot;font-family: &amp;quot;Fira Code&amp;quot;, &amp;quot;Fira Mono&amp;quot;, Menlo, Consolas, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; word-spacing: normal; background-color: rgb(255, 255, 255); color: rgb(56, 58, 66); letter-spacing: 0.5px; text-align: left;&quot;&gt;PB1(Trig)=1 ≥10 µs&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-11" target="As9wCeJyfq6nm48TFVe3-1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-11" target="As9wCeJyfq6nm48TFVe3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="105" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-13" target="As9wCeJyfq6nm48TFVe3-14">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-13" target="As9wCeJyfq6nm48TFVe3-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-13" value="HC-SR04内部发射8*40kHz超声波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="As9wCeJyfq6nm48TFVe3-13" value="HC-SR04内部发射8*40kHz超声波" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-14" target="As9wCeJyfq6nm48TFVe3-16">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-14" target="As9wCeJyfq6nm48TFVe3-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-14" value="等待Echo=1&lt;div&gt;TIM2开始捕获&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-14" value="等待Echo=1&lt;div&gt;TIM2开始捕获&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-16" target="As9wCeJyfq6nm48TFVe3-18">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-16" target="As9wCeJyfq6nm48TFVe3-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-16" value="Echo=0捕获结束&lt;div&gt;记录高电平时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-16" value="Echo=0捕获结束&lt;div&gt;记录高电平时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-18" target="As9wCeJyfq6nm48TFVe3-21">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-18" target="As9wCeJyfq6nm48TFVe3-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-18" value="计算距离d" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-18" value="计算距离d" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="105" y="710" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
