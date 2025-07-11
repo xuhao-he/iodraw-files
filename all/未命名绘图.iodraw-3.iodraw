@@ -36,8 +36,14 @@
         <mxCell id="As9wCeJyfq6nm48TFVe3-13" value="HC-SR04内部发射8*40kHz超声波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="As9wCeJyfq6nm48TFVe3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-14" target="As9wCeJyfq6nm48TFVe3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-14" value="等待Echo=1&lt;div&gt;TIM2开始捕获&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="As9wCeJyfq6nm48TFVe3-16" value="Echo=0捕获结束&lt;div&gt;记录高电平时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
