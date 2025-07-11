@@ -48,8 +48,14 @@
         <mxCell id="As9wCeJyfq6nm48TFVe3-16" value="Echo=0捕获结束&lt;div&gt;记录高电平时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="As9wCeJyfq6nm48TFVe3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-18" target="As9wCeJyfq6nm48TFVe3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-18" value="计算距离d" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="As9wCeJyfq6nm48TFVe3-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="710" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
