@@ -22,19 +22,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-13" value="HC-SR04内部发射8*40kHz超声波" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-14" target="As9wCeJyfq6nm48TFVe3-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-14" value="等待Echo=1&lt;div&gt;TIM2开始捕获&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="As9wCeJyfq6nm48TFVe3-16" target="As9wCeJyfq6nm48TFVe3-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-16" value="Echo=0捕获结束&lt;div&gt;记录高电平时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-18" value="计算距离d" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="115" y="520" width="70" height="40" as="geometry" />
