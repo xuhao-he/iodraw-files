@@ -47,15 +47,7 @@
           <mxGeometry x="285" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-9" value="设置键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="228.75" y="550" width="205" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvz3O7x-GXuJ4n7DLHiE-10" target="fvz3O7x-GXuJ4n7DLHiE-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-26" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fvz3O7x-GXuJ4n7DLHiE-18">
-          <mxGeometry x="-0.4224" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="226.25" y="630" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvz3O7x-GXuJ4n7DLHiE-10" target="fvz3O7x-GXuJ4n7DLHiE-19">
           <mxGeometry relative="1" as="geometry" />
