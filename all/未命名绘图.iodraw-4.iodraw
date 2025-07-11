@@ -47,7 +47,7 @@
           <mxGeometry x="285" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-9" value="设置键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="226.25" y="630" width="205" height="40" as="geometry" />
+          <mxGeometry x="228.75" y="600" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvz3O7x-GXuJ4n7DLHiE-10" target="fvz3O7x-GXuJ4n7DLHiE-19">
           <mxGeometry relative="1" as="geometry" />
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-28" value="显示设置值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
