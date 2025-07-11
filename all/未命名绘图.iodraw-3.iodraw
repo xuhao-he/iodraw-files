@@ -49,7 +49,7 @@
           <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-18" value="计算距离d" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
