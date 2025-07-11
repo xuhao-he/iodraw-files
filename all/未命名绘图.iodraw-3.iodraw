@@ -16,7 +16,7 @@
         <mxCell id="As9wCeJyfq6nm48TFVe3-2" value="主循环调用测距函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="As9wCeJyfq6nm48TFVe3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-4">
+        <mxCell id="As9wCeJyfq6nm48TFVe3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="As9wCeJyfq6nm48TFVe3-4" target="As9wCeJyfq6nm48TFVe3-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="310" as="targetPoint" />
           </mxGeometry>
@@ -31,7 +31,7 @@
           <mxGeometry x="105" y="-60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="As9wCeJyfq6nm48TFVe3-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="200" height="60" as="geometry" />
+          <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
