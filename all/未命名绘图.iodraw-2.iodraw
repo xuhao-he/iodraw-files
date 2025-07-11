@@ -61,6 +61,11 @@
         <mxCell id="w0ryqp33T7tiW6SR9rGP-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w0ryqp33T7tiW6SR9rGP-14" target="w0ryqp33T7tiW6SR9rGP-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="w0ryqp33T7tiW6SR9rGP-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0ryqp33T7tiW6SR9rGP-25">
+          <mxGeometry x="-0.1111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="w0ryqp33T7tiW6SR9rGP-14" value="判断是否超出测距阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="195" width="160" height="80" as="geometry" />
         </mxCell>
@@ -80,6 +85,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="265" as="sourcePoint" />
             <mxPoint x="810" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="350" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
