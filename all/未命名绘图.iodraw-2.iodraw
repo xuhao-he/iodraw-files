@@ -47,7 +47,7 @@
         <mxCell id="w0ryqp33T7tiW6SR9rGP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w0ryqp33T7tiW6SR9rGP-10" target="w0ryqp33T7tiW6SR9rGP-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w0ryqp33T7tiW6SR9rGP-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;超声波模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w0ryqp33T7tiW6SR9rGP-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;超声波模块测距&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0ryqp33T7tiW6SR9rGP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w0ryqp33T7tiW6SR9rGP-14" target="w0ryqp33T7tiW6SR9rGP-16">
