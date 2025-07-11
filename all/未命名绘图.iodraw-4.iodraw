@@ -34,13 +34,19 @@
           <mxGeometry x="285" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-9" value="设置键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="540" width="205" height="40" as="geometry" />
+          <mxGeometry x="228.75" y="550" width="205" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvz3O7x-GXuJ4n7DLHiE-10" target="fvz3O7x-GXuJ4n7DLHiE-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-10" value="减键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228.75" y="480" width="202.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-17" value="进入设置界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="465" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-19" value="进入设置界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="475" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
