@@ -93,6 +93,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fvz3O7x-GXuJ4n7DLHiE-34">
+          <mxGeometry x="-0.0108" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
