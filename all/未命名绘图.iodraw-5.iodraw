@@ -31,8 +31,8 @@
         <mxCell id="lI4D3GDR-S27KgZzHJEa-8" value="进入阈值设定模式在第二行显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="690" width="118" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lI4D3GDR-S27KgZzHJEa-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="lI4D3GDR-S27KgZzHJEa-10" value="延时300ms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="770" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
