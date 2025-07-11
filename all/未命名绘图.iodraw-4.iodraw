@@ -24,8 +24,8 @@
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvz3O7x-GXuJ4n7DLHiE-6" target="fvz3O7x-GXuJ4n7DLHiE-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-6" value="设置键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="510" width="210" height="60" as="geometry" />
+        <mxCell id="fvz3O7x-GXuJ4n7DLHiE-6" value="加键是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="450" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fvz3O7x-GXuJ4n7DLHiE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fvz3O7x-GXuJ4n7DLHiE-7" target="fvz3O7x-GXuJ4n7DLHiE-6">
           <mxGeometry relative="1" as="geometry" />
