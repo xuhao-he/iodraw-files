@@ -4,6 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-139" value="Video Sequence&#xa;视频序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1130" width="174" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-140" value="I(t-3)&#xa;前间隔帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1246" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-141" value="I(t)&#xa;当前帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1246" width="109" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-142" value="I(t+3)&#xa;后间隔帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1246" width="126" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-143" value="Concat along Channel&#xa;按通道维度拼接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1362" width="215" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-144" value="Input Tensor&#xa;9 通道输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1478" width="149" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-145" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-139" target="EN1MU4v0naDxhJ0OFNtI-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="1221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-146" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-139" target="EN1MU4v0naDxhJ0OFNtI-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-147" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-139" target="EN1MU4v0naDxhJ0OFNtI-142">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="416" y="1221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-148" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-140" target="EN1MU4v0naDxhJ0OFNtI-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="82" y="1337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-141" target="EN1MU4v0naDxhJ0OFNtI-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.95;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-142" target="EN1MU4v0naDxhJ0OFNtI-143">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="416" y="1337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-143" target="EN1MU4v0naDxhJ0OFNtI-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
