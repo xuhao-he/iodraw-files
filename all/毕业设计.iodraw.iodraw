@@ -1,96 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="WHl11k-S0NI1mTvHV6gh">
-    <mxGraphModel dx="2080" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2080" dy="73" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-91" value="Input Image&#xa;输入图像&#xa;&#xa;▦ ▦ ▦ ▦&#xa;▦ ▦ ▦ ▦&#xa;▦ ▦ ▦ ▦" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="220" width="145" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-92" value="Patch Embedding&#xa;图像分块与映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="808" y="389" width="183" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-93" value="Random Masking&#xa;随机遮挡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="811" y="505" width="178" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-94" value="Visible Tokens&#xa;可见 Token&#xa;&#xa;▉  ▉  ▉  ▉" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="820" y="621" width="160" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-95" value="Encoder&#xa;编码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="754" width="119" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-96" value="Latent Representation&#xa;潜在特征表示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="790" y="893" width="220" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-97" value="Add Mask Tokens&#xa;补入 Mask Token&#xa;&#xa;▉  ▧  ▉  ▧  ▧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1009" width="180" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-98" value="Decoder&#xa;解码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1142" width="120" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-99" value="Reconstructed Image&#xa;重建图像&#xa;&#xa;▦ ▦ ▦ ▦&#xa;▦ ▦ ▦ ▦&#xa;▦ ▦ ▦ ▦" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="795" y="1258" width="210" height="119" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-100" value="Reconstruction Loss&#xa;重建损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="872" y="1427" width="201" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-91" target="EN1MU4v0naDxhJ0OFNtI-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="364" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-102" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-92" target="EN1MU4v0naDxhJ0OFNtI-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-93" target="EN1MU4v0naDxhJ0OFNtI-94">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-104" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-94" target="EN1MU4v0naDxhJ0OFNtI-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-105" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-95" target="EN1MU4v0naDxhJ0OFNtI-96">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-106" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-96" target="EN1MU4v0naDxhJ0OFNtI-97">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-97" target="EN1MU4v0naDxhJ0OFNtI-98">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-98" target="EN1MU4v0naDxhJ0OFNtI-99">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-99" target="EN1MU4v0naDxhJ0OFNtI-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="900" y="1402" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-110" value="Original Target" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-91" target="EN1MU4v0naDxhJ0OFNtI-100">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1045" y="364" />
-              <mxPoint x="1045" y="1402" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EN1MU4v0naDxhJ0OFNtI-111" value="Sparse 3-Frame Input&#xa;三帧稀疏输入" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1039" y="1510" width="213" height="66" as="geometry" />
         </mxCell>
