@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EN1MU4v0naDxhJ0OFNtI-70" value="Input Image&#xa;输入图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="790" y="136" width="145" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="EN1MU4v0naDxhJ0OFNtI-91" value="Input Image&#xa;输入图像&#xa;&#xa;▦ ▦ ▦ ▦&#xa;▦ ▦ ▦ ▦&#xa;▦ ▦ ▦ ▦" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="900" y="220" width="145" height="119" as="geometry" />
         </mxCell>
