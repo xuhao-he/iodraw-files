@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="WHl11k-S0NI1mTvHV6gh">
-    <mxGraphModel dx="1235" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,6 +128,106 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2089" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-28" value="Input Image&#xa;输入图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="436" width="145" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-29" value="Patchify&#xa;图像分块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="378" width="124" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-30" value="Random Mask&#xa;随机遮挡" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="599" y="329" width="163" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-31" value="Visible Tokens&#xa;可见块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="812" y="320" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-32" value="Mask Tokens&#xa;遮挡块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="436" width="148" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-33" value="Encoder&#xa;编码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="320" width="119" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-34" value="Latent&#xa;潜在表示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="320" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-35" value="Decoder&#xa;解码器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1389" y="378" width="120" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-36" value="Reconstruction&#xa;重建图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1559" y="378" width="167" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-37" value="Loss&#xa;重建损失" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="436" width="125" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-28" target="EN1MU4v0naDxhJ0OFNtI-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-29" target="EN1MU4v0naDxhJ0OFNtI-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.23;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-30" target="EN1MU4v0naDxhJ0OFNtI-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="787" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-30" target="EN1MU4v0naDxhJ0OFNtI-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="787" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-31" target="EN1MU4v0naDxhJ0OFNtI-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-33" target="EN1MU4v0naDxhJ0OFNtI-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.09;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-34" target="EN1MU4v0naDxhJ0OFNtI-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1364" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-45" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.09;entryY=1;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-32" target="EN1MU4v0naDxhJ0OFNtI-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1364" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-35" target="EN1MU4v0naDxhJ0OFNtI-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.5;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-36" target="EN1MU4v0naDxhJ0OFNtI-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="411" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EN1MU4v0naDxhJ0OFNtI-48" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0.25;entryY=1;rounded=0;" edge="1" parent="1" source="EN1MU4v0naDxhJ0OFNtI-28" target="EN1MU4v0naDxhJ0OFNtI-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="561" />
+              <mxPoint x="1750" y="561" />
             </Array>
           </mxGeometry>
         </mxCell>
