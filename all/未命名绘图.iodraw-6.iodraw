@@ -4,8 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zoq-kMgptsA-kxNU4zRC-1" value="输入图像" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Zoq-kMgptsA-kxNU4zRC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Zoq-kMgptsA-kxNU4zRC-1" target="Zoq-kMgptsA-kxNU4zRC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoq-kMgptsA-kxNU4zRC-1" value="输入图像" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="110" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zoq-kMgptsA-kxNU4zRC-2" value="" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="195" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
