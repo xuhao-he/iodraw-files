@@ -13,7 +13,7 @@
         <mxCell id="Zoq-kMgptsA-kxNU4zRC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Zoq-kMgptsA-kxNU4zRC-2" target="Zoq-kMgptsA-kxNU4zRC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zoq-kMgptsA-kxNU4zRC-2" value="图像分块&lt;div&gt;随机遮挡&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="Zoq-kMgptsA-kxNU4zRC-2" value="图像分块token&lt;div&gt;随机遮挡&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="235" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zoq-kMgptsA-kxNU4zRC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Zoq-kMgptsA-kxNU4zRC-4" target="Zoq-kMgptsA-kxNU4zRC-6">
