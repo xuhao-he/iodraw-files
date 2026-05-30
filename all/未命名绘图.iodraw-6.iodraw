@@ -22,7 +22,7 @@
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-12" value="&lt;h4&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;以25%的概率合成异常&lt;/span&gt;&lt;/h4&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-13" value="然后将原始图片切分成不同的token，再将一半随机掩码" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-13" value="然后将原始图片切分成不同的token，再将一半随机掩码" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="329.99999999999994" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
