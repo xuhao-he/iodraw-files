@@ -31,6 +31,9 @@
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="YVGoFOSq7AW5HDhv8ZHu-16" target="YVGoFOSq7AW5HDhv8ZHu-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="YVGoFOSq7AW5HDhv8ZHu-16" target="YVGoFOSq7AW5HDhv8ZHu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-16" value="共享编码器" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="120" height="30" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="294" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-20" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="140.6" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
