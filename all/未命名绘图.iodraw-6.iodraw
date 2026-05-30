@@ -55,10 +55,10 @@
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-24" value="学生重建帧" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="140.6" y="582.5" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" target="YVGoFOSq7AW5HDhv8ZHu-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220.00000000000014" y="649.9958620689656" as="sourcePoint" />
-            <mxPoint x="319.4" y="663.72" as="targetPoint" />
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-29" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="300" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
