@@ -46,7 +46,7 @@
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-20" value="学生解码器" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="140.6" y="480" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-22" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-22" value="教师重建帧" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="294" y="582.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
