@@ -60,10 +60,13 @@
             <mxPoint x="320" y="540" as="sourcePoint" />
             <mxPoint x="370" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="660" />
+              <mxPoint x="200" y="650" />
               <mxPoint x="354" y="650" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-31" value="&lt;h4&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;以25%的概率合成异常&lt;/span&gt;&lt;/h4&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
