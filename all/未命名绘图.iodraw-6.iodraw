@@ -28,8 +28,8 @@
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-13" value="然后将原始图片切分成不同的token，再将一半随机掩码" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="329.99999999999994" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-16" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="329.99999999999994" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-16" value="共享编码器" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="219.99999999999994" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
