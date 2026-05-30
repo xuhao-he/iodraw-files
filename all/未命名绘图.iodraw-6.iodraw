@@ -85,10 +85,13 @@
         <mxCell id="YVGoFOSq7AW5HDhv8ZHu-40" value="真实帧标签" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="460" y="582.5" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1">
+        <mxCell id="YVGoFOSq7AW5HDhv8ZHu-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YVGoFOSq7AW5HDhv8ZHu-22" target="YVGoFOSq7AW5HDhv8ZHu-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="550" as="sourcePoint" />
             <mxPoint x="370" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="650" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
